@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'APIserver132'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fddb87ce5e194ac5a58362f302817a15 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_0f09dc36ebfa4c43bc4fc99ef9521ad2 }}
